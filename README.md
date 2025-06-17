@@ -68,7 +68,7 @@ DeviceProcessEvents
 | where FileName has_any ("tor.exe", "firefox.exe", "tor-browser.exe")  
 | project Timestamp, DeviceName, AccountName, FileName, FolderPath, SHA256, ActionType, ProcessCommandLine 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b13707ae-8c2d-4081-a381-2b521d3a0d8f">
+<img width="1212" alt="image" src="https://github.com/user-attachments/assets/6efec133-95f1-4ce7-81db-15d7cabe8d1e">
 
 ---
 
