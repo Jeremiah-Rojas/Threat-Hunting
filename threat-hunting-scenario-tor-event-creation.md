@@ -77,9 +77,4 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Jeremiah Rojas
 - **Author Contact**: https://github.com/Jeremiah-Rojas
-- **Date**: June 6, 2025
-
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Date**: June 6, 2025 
