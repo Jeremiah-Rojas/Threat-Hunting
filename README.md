@@ -53,7 +53,7 @@ DeviceProcessEvents
 | where DeviceName == "rojas-mde"  
 | where ProcessCommandLine contains "tor-browser"
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b07ac4b4-9cb3-4834-8fac-9f5f29709d78">
+<img width="1212" alt="image" src="https://github.com/user-attachments/assets/17d4e47d-e10d-4180-bb04-745f8042fc81">
 
 ---
 
